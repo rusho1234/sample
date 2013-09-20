@@ -38,3 +38,11 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 gem 'social_stream', git: 'git://github.com/ging/social_stream.git', branch: 'master'
+
+group :production do
+  gem 'pg'
+end
+
+group :development, :test do
+  gem 'sqlite3'
+end

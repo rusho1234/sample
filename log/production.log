@@ -1,0 +1,2142 @@
+Connecting to database specified by database.yml
+Creating scope :public. Overwriting existing method ActivityObject.public.
+Creating scope :followed_by. Overwriting existing method Actor.followed_by.
+Compiled jquery.js  (94ms)  (pid 31205)
+Compiled jquery_ujs.js  (0ms)  (pid 31205)
+Compiled jquery.ui.core.js  (0ms)  (pid 31205)
+Compiled jquery.ui.widget.js  (0ms)  (pid 31205)
+Compiled jquery.ui.accordion.js  (21ms)  (pid 31205)
+Compiled jquery.ui.position.js  (0ms)  (pid 31205)
+Compiled jquery.ui.menu.js  (144ms)  (pid 31205)
+Compiled jquery.ui.autocomplete.js  (164ms)  (pid 31205)
+Compiled jquery.ui.button.js  (9ms)  (pid 31205)
+Compiled jquery.ui.datepicker.js  (5ms)  (pid 31205)
+Compiled jquery.ui.mouse.js  (8ms)  (pid 31205)
+Compiled jquery.ui.draggable.js  (23ms)  (pid 31205)
+Compiled jquery.ui.resizable.js  (12ms)  (pid 31205)
+Compiled jquery.ui.dialog.js  (67ms)  (pid 31205)
+Compiled jquery.ui.droppable.js  (16ms)  (pid 31205)
+Compiled jquery.ui.effect.js  (0ms)  (pid 31205)
+Compiled jquery.ui.effect-blind.js  (15ms)  (pid 31205)
+Compiled jquery.ui.effect-bounce.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-clip.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-drop.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-explode.js  (101ms)  (pid 31205)
+Compiled jquery.ui.effect-fade.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-fold.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-highlight.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-pulsate.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-scale.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-shake.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-slide.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-transfer.js  (4ms)  (pid 31205)
+Compiled jquery.ui.progressbar.js  (8ms)  (pid 31205)
+Compiled jquery.ui.selectable.js  (12ms)  (pid 31205)
+Compiled jquery.ui.slider.js  (12ms)  (pid 31205)
+Compiled jquery.ui.sortable.js  (12ms)  (pid 31205)
+Compiled jquery.ui.spinner.js  (12ms)  (pid 31205)
+Compiled jquery.ui.tabs.js  (8ms)  (pid 31205)
+Compiled jquery.ui.tooltip.js  (11ms)  (pid 31205)
+Compiled jquery.ui.all.js  (847ms)  (pid 31205)
+Compiled modernizr.js  (0ms)  (pid 31205)
+Compiled bootstrap-transition.js  (0ms)  (pid 31205)
+Compiled bootstrap-affix.js  (0ms)  (pid 31205)
+Compiled bootstrap-alert.js  (0ms)  (pid 31205)
+Compiled bootstrap-button.js  (0ms)  (pid 31205)
+Compiled bootstrap-carousel.js  (0ms)  (pid 31205)
+Compiled bootstrap-collapse.js  (0ms)  (pid 31205)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 31205)
+Compiled bootstrap-modal.js  (0ms)  (pid 31205)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 31205)
+Compiled bootstrap-tab.js  (0ms)  (pid 31205)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 31205)
+Compiled bootstrap-popover.js  (0ms)  (pid 31205)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 31205)
+Compiled bootstrap.js  (189ms)  (pid 31205)
+Compiled bootstrap-multiselect.js  (0ms)  (pid 31205)
+Compiled bootstrap-scroll-modal.js  (0ms)  (pid 31205)
+Compiled i18n.js  (0ms)  (pid 31205)
+Compiled i18n/translations.js  (907ms)  (pid 31205)
+Compiled flashy.js  (5ms)  (pid 31205)
+Compiled colorfont.js  (0ms)  (pid 31205)
+Compiled jquery.Jcrop.js  (1ms)  (pid 31205)
+Compiled jquery.form.js  (0ms)  (pid 31205)
+Compiled jquery.fileupload.js  (1ms)  (pid 31205)
+Compiled avatars_for_rails.js  (107ms)  (pid 31205)
+Compiled social_stream/callback.js  (0ms)  (pid 31205)
+Compiled social_stream/action.js  (6ms)  (pid 31205)
+Compiled social_stream/actor.js  (0ms)  (pid 31205)
+Compiled social_stream/audience.js  (3ms)  (pid 31205)
+Compiled jquery.autosize.js  (0ms)  (pid 31205)
+Compiled social_stream/comment.js  (8ms)  (pid 31205)
+Compiled social_stream/contact.js  (3ms)  (pid 31205)
+Compiled jquery.scrollTo.min.js  (0ms)  (pid 31205)
+Compiled jquery.validate.js  (0ms)  (pid 31205)
+Compiled jquery.browser.js  (0ms)  (pid 31205)
+Compiled jquery.cleditor.js  (0ms)  (pid 31205)
+Compiled social_stream/pagination.js  (0ms)  (pid 31205)
+Compiled social_stream/conversation.js  (29ms)  (pid 31205)
+Compiled social_stream/explore.js  (3ms)  (pid 31205)
+Compiled social_stream/flash.js  (0ms)  (pid 31205)
+Compiled select2.js  (2ms)  (pid 31205)
+Compiled jqcloud-0.1.3.js  (0ms)  (pid 31205)
+Compiled jquery.ba-url.js  (0ms)  (pid 31205)
+Compiled social_stream/group.js  (95ms)  (pid 31205)
+Compiled jquery.ae.image.resize.js  (0ms)  (pid 31205)
+Compiled social_stream/message.js  (20ms)  (pid 31205)
+Compiled social_stream/notification.js  (4ms)  (pid 31205)
+Compiled social_stream/object.js  (7ms)  (pid 31205)
+Compiled social_stream/permission.js  (0ms)  (pid 31205)
+Compiled social_stream/post.js  (3ms)  (pid 31205)
+Compiled social_stream/profile.js  (7ms)  (pid 31205)
+Compiled social_stream/relation_customs.js  (3ms)  (pid 31205)
+Compiled social_stream/repository.js  (3ms)  (pid 31205)
+Compiled jquery.watermark.js  (0ms)  (pid 31205)
+Compiled social_stream/search.js  (8ms)  (pid 31205)
+Compiled social_stream/search_header.js  (3ms)  (pid 31205)
+Compiled social_stream/tag.js  (3ms)  (pid 31205)
+Compiled d3.js  (99ms)  (pid 31205)
+Compiled d3.layout.js  (1ms)  (pid 31205)
+Compiled d3.geom.js  (0ms)  (pid 31205)
+Compiled social_stream/tie.js  (117ms)  (pid 31205)
+Compiled social_stream/wall.js  (10ms)  (pid 31205)
+Compiled social_stream/timeline.js  (30ms)  (pid 31205)
+Compiled social_stream/user.js  (3ms)  (pid 31205)
+Compiled social_stream-base.js  (2794ms)  (pid 31205)
+Compiled jquery.jplayer.js  (0ms)  (pid 31205)
+Compiled social_stream/audio.js  (4ms)  (pid 31205)
+Compiled social_stream/document.js  (3ms)  (pid 31205)
+Compiled social_stream/video.js  (3ms)  (pid 31205)
+Compiled social_stream/documents.timeline.js  (14ms)  (pid 31205)
+Compiled social_stream/documents.wall.js  (3ms)  (pid 31205)
+Compiled social_stream-documents.js  (46ms)  (pid 31205)
+Compiled jquery.boxy.js  (0ms)  (pid 31205)
+Compiled fullcalendar.js  (2ms)  (pid 31205)
+Compiled scheduler/form.js  (0ms)  (pid 31205)
+Compiled scheduler.js  (10ms)  (pid 31205)
+Compiled jquery.tipsy.js  (0ms)  (pid 31205)
+Compiled social_stream/calendar.js  (8ms)  (pid 31205)
+Compiled social_stream/events.poster.js  (3ms)  (pid 31205)
+Compiled social_stream/event.js  (11ms)  (pid 31205)
+Compiled social_stream/events.action.js  (3ms)  (pid 31205)
+Compiled social_stream/events.timeline.js  (5ms)  (pid 31205)
+Compiled social_stream/fullcalendar.js  (6ms)  (pid 31205)
+Compiled social_stream-events.js  (192ms)  (pid 31205)
+Compiled social_stream/link.js  (3ms)  (pid 31205)
+Compiled social_stream/linkser.timeline.js  (5ms)  (pid 31205)
+Compiled social_stream/linkser.wall.js  (6ms)  (pid 31205)
+Compiled social_stream-linkser.js  (26ms)  (pid 31205)
+Compiled strophe.js  (102ms)  (pid 31205)
+Compiled strophe.muc.js  (0ms)  (pid 31205)
+Compiled jquery.tools.tooltip.js  (0ms)  (pid 31205)
+Compiled liquidmetal.js  (0ms)  (pid 31205)
+Compiled TB.min.js  (3ms)  (pid 31205)
+Compiled jquery.flexselect.sstreampresence.js  (0ms)  (pid 31205)
+Compiled jquery.ui.chatbox.sstreampresence.js  (0ms)  (pid 31205)
+Compiled presence.js  (1ms)  (pid 31205)
+Compiled presence_XmppClient.js  (23ms)  (pid 31205)
+Compiled presence_audio.js  (13ms)  (pid 31205)
+Compiled presence_game.js  (7ms)  (pid 31205)
+Compiled presence_game_comunication.js  (7ms)  (pid 31205)
+Compiled presence_game_factory.js  (1ms)  (pid 31205)
+Compiled presence_game_interface.js  (4ms)  (pid 31205)
+Compiled presence_game_sfighter.js  (10ms)  (pid 31205)
+Compiled presence_game_ter.js  (7ms)  (pid 31205)
+Compiled presence_notifications.js  (0ms)  (pid 31205)
+Compiled presence_parser.js  (0ms)  (pid 31205)
+Compiled presence_persistence.js  (0ms)  (pid 31205)
+Compiled presence_store.js  (0ms)  (pid 31205)
+Compiled presence_uiManager.js  (19ms)  (pid 31205)
+Compiled presence_utilities.js  (0ms)  (pid 31205)
+Compiled presence_videochat.js  (103ms)  (pid 31205)
+Compiled presence_windowManager.js  (0ms)  (pid 31205)
+Compiled social_stream-presence.js  (475ms)  (pid 31205)
+Compiled application.js  (3781ms)  (pid 31205)
+Compiled bootstrap-scroll-modal.css  (0ms)  (pid 31205)
+Compiled social_stream/base/logo/_logo-in.css  (0ms)  (pid 31205)
+Compiled social_stream/base/logo/_logo-out.css  (0ms)  (pid 31205)
+Compiled social_stream/fonts/fonts.css  (0ms)  (pid 31205)
+Compiled social_stream/fonts/colorfont.css  (0ms)  (pid 31205)
+Compiled social_stream/base/icons/icon.css.css  (0ms)  (pid 31205)
+WARNING on line 4 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/conversation/_conversation.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.cleditor.css  (0ms)  (pid 31205)
+WARNING on line 9 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/conversation/responsive/_responsive-767px-max.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 124 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/explore/layout/_explore-timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 27 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/explore/responsive/_responsive-768px-979px.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jqcloud.css  (0ms)  (pid 31205)
+WARNING on line 8 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/profile/_profile.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.Jcrop.css  (0ms)  (pid 31205)
+Compiled avatars_for_rails.css  (23ms)  (pid 31205)
+WARNING on line 94 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/toolbar/layout/_toolbar.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 7 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 93 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled chosen.css  (0ms)  (pid 31205)
+WARNING on line 8 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/layout/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 75 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/layout/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 57 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/responsive/_responsive-1200px-min.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 75 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/responsive/_responsive-767px-max.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jplayer.blue.monday.css  (0ms)  (pid 31205)
+WARNING on line 59 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/timeline/layout/_audios.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 60 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/timeline/layout/_audios.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled fullcalendar.css  (0ms)  (pid 31205)
+WARNING on line 13 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/linkser/app/assets/stylesheets/social_stream/linkser/explore/search/layout/_search-result.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 15 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/linkser/app/assets/stylesheets/social_stream/linkser/explore/timeline/layout/_timeline-result.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.ui.chatbox.css  (0ms)  (pid 31205)
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "#picture .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #audio .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #video .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #document .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+Compiled social_stream.css  (28079ms)  (pid 31205)
+Compiled _variables.css  (1ms)  (pid 31205)
+Compiled fonts.css  (0ms)  (pid 31205)
+Compiled social_stream/_frontpage.css  (3ms)  (pid 31205)
+Compiled application.css  (28211ms)  (pid 31205)
+Connecting to database specified by database.yml
+Creating scope :public. Overwriting existing method ActivityObject.public.
+Creating scope :followed_by. Overwriting existing method Actor.followed_by.
+Compiled jquery.js  (5ms)  (pid 31205)
+Compiled jquery_ujs.js  (0ms)  (pid 31205)
+Compiled jquery.ui.core.js  (0ms)  (pid 31205)
+Compiled jquery.ui.widget.js  (0ms)  (pid 31205)
+Compiled jquery.ui.accordion.js  (130ms)  (pid 31205)
+Compiled jquery.ui.position.js  (0ms)  (pid 31205)
+Compiled jquery.ui.menu.js  (16ms)  (pid 31205)
+Compiled jquery.ui.autocomplete.js  (35ms)  (pid 31205)
+Compiled jquery.ui.button.js  (9ms)  (pid 31205)
+Compiled jquery.ui.datepicker.js  (5ms)  (pid 31205)
+Compiled jquery.ui.mouse.js  (8ms)  (pid 31205)
+Compiled jquery.ui.draggable.js  (22ms)  (pid 31205)
+Compiled jquery.ui.resizable.js  (13ms)  (pid 31205)
+Compiled jquery.ui.dialog.js  (64ms)  (pid 31205)
+Compiled jquery.ui.droppable.js  (17ms)  (pid 31205)
+Compiled jquery.ui.effect.js  (0ms)  (pid 31205)
+Compiled jquery.ui.effect-blind.js  (10ms)  (pid 31205)
+Compiled jquery.ui.effect-bounce.js  (5ms)  (pid 31205)
+Compiled jquery.ui.effect-clip.js  (5ms)  (pid 31205)
+Compiled jquery.ui.effect-drop.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-explode.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-fade.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-fold.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-highlight.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-pulsate.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-scale.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-shake.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-slide.js  (4ms)  (pid 31205)
+Compiled jquery.ui.effect-transfer.js  (4ms)  (pid 31205)
+Compiled jquery.ui.progressbar.js  (9ms)  (pid 31205)
+Compiled jquery.ui.selectable.js  (12ms)  (pid 31205)
+Compiled jquery.ui.slider.js  (12ms)  (pid 31205)
+Compiled jquery.ui.sortable.js  (13ms)  (pid 31205)
+Compiled jquery.ui.spinner.js  (12ms)  (pid 31205)
+Compiled jquery.ui.tabs.js  (8ms)  (pid 31205)
+Compiled jquery.ui.tooltip.js  (16ms)  (pid 31205)
+Compiled jquery.ui.all.js  (936ms)  (pid 31205)
+Compiled modernizr.js  (0ms)  (pid 31205)
+Compiled bootstrap-transition.js  (0ms)  (pid 31205)
+Compiled bootstrap-affix.js  (0ms)  (pid 31205)
+Compiled bootstrap-alert.js  (0ms)  (pid 31205)
+Compiled bootstrap-button.js  (0ms)  (pid 31205)
+Compiled bootstrap-carousel.js  (0ms)  (pid 31205)
+Compiled bootstrap-collapse.js  (0ms)  (pid 31205)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 31205)
+Compiled bootstrap-modal.js  (0ms)  (pid 31205)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 31205)
+Compiled bootstrap-tab.js  (0ms)  (pid 31205)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 31205)
+Compiled bootstrap-popover.js  (0ms)  (pid 31205)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 31205)
+Compiled bootstrap.js  (75ms)  (pid 31205)
+Compiled bootstrap-multiselect.js  (0ms)  (pid 31205)
+Compiled bootstrap-scroll-modal.js  (0ms)  (pid 31205)
+Compiled i18n.js  (0ms)  (pid 31205)
+Compiled i18n/translations.js  (946ms)  (pid 31205)
+Compiled flashy.js  (5ms)  (pid 31205)
+Compiled colorfont.js  (0ms)  (pid 31205)
+Compiled jquery.Jcrop.js  (1ms)  (pid 31205)
+Compiled jquery.form.js  (0ms)  (pid 31205)
+Compiled jquery.fileupload.js  (1ms)  (pid 31205)
+Compiled avatars_for_rails.js  (44ms)  (pid 31205)
+Compiled social_stream/callback.js  (0ms)  (pid 31205)
+Compiled social_stream/action.js  (6ms)  (pid 31205)
+Compiled social_stream/actor.js  (0ms)  (pid 31205)
+Compiled social_stream/audience.js  (3ms)  (pid 31205)
+Compiled jquery.autosize.js  (0ms)  (pid 31205)
+Compiled social_stream/comment.js  (9ms)  (pid 31205)
+Compiled social_stream/contact.js  (4ms)  (pid 31205)
+Compiled jquery.scrollTo.min.js  (0ms)  (pid 31205)
+Compiled jquery.validate.js  (0ms)  (pid 31205)
+Compiled jquery.browser.js  (0ms)  (pid 31205)
+Compiled jquery.cleditor.js  (0ms)  (pid 31205)
+Compiled social_stream/pagination.js  (0ms)  (pid 31205)
+Compiled social_stream/conversation.js  (161ms)  (pid 31205)
+Compiled social_stream/explore.js  (8ms)  (pid 31205)
+Compiled social_stream/flash.js  (0ms)  (pid 31205)
+Compiled select2.js  (2ms)  (pid 31205)
+Compiled jqcloud-0.1.3.js  (0ms)  (pid 31205)
+Compiled jquery.ba-url.js  (0ms)  (pid 31205)
+Compiled social_stream/group.js  (47ms)  (pid 31205)
+Compiled jquery.ae.image.resize.js  (0ms)  (pid 31205)
+Compiled social_stream/message.js  (30ms)  (pid 31205)
+Compiled social_stream/notification.js  (8ms)  (pid 31205)
+Compiled social_stream/object.js  (8ms)  (pid 31205)
+Compiled social_stream/permission.js  (0ms)  (pid 31205)
+Compiled social_stream/post.js  (4ms)  (pid 31205)
+Compiled social_stream/profile.js  (11ms)  (pid 31205)
+Compiled social_stream/relation_customs.js  (5ms)  (pid 31205)
+Compiled social_stream/repository.js  (7ms)  (pid 31205)
+Compiled jquery.watermark.js  (0ms)  (pid 31205)
+Compiled social_stream/search.js  (13ms)  (pid 31205)
+Compiled social_stream/search_header.js  (7ms)  (pid 31205)
+Compiled social_stream/tag.js  (5ms)  (pid 31205)
+Compiled d3.js  (4ms)  (pid 31205)
+Compiled d3.layout.js  (1ms)  (pid 31205)
+Compiled d3.geom.js  (0ms)  (pid 31205)
+Compiled social_stream/tie.js  (28ms)  (pid 31205)
+Compiled social_stream/wall.js  (10ms)  (pid 31205)
+Compiled social_stream/timeline.js  (35ms)  (pid 31205)
+Compiled social_stream/user.js  (3ms)  (pid 31205)
+Compiled social_stream-base.js  (2704ms)  (pid 31205)
+Compiled jquery.jplayer.js  (0ms)  (pid 31205)
+Compiled social_stream/audio.js  (4ms)  (pid 31205)
+Compiled social_stream/document.js  (4ms)  (pid 31205)
+Compiled social_stream/video.js  (4ms)  (pid 31205)
+Compiled social_stream/documents.timeline.js  (131ms)  (pid 31205)
+Compiled social_stream/documents.wall.js  (4ms)  (pid 31205)
+Compiled social_stream-documents.js  (170ms)  (pid 31205)
+Compiled jquery.boxy.js  (0ms)  (pid 31205)
+Compiled fullcalendar.js  (2ms)  (pid 31205)
+Compiled scheduler/form.js  (0ms)  (pid 31205)
+Compiled scheduler.js  (7ms)  (pid 31205)
+Compiled jquery.tipsy.js  (0ms)  (pid 31205)
+Compiled social_stream/calendar.js  (8ms)  (pid 31205)
+Compiled social_stream/events.poster.js  (3ms)  (pid 31205)
+Compiled social_stream/event.js  (11ms)  (pid 31205)
+Compiled social_stream/events.action.js  (3ms)  (pid 31205)
+Compiled social_stream/events.timeline.js  (6ms)  (pid 31205)
+Compiled social_stream/fullcalendar.js  (7ms)  (pid 31205)
+Compiled social_stream-events.js  (81ms)  (pid 31205)
+Compiled social_stream/link.js  (4ms)  (pid 31205)
+Compiled social_stream/linkser.timeline.js  (7ms)  (pid 31205)
+Compiled social_stream/linkser.wall.js  (8ms)  (pid 31205)
+Compiled social_stream-linkser.js  (140ms)  (pid 31205)
+Compiled strophe.js  (1ms)  (pid 31205)
+Compiled strophe.muc.js  (1ms)  (pid 31205)
+Compiled jquery.tools.tooltip.js  (0ms)  (pid 31205)
+Compiled liquidmetal.js  (0ms)  (pid 31205)
+Compiled TB.min.js  (3ms)  (pid 31205)
+Compiled jquery.flexselect.sstreampresence.js  (0ms)  (pid 31205)
+Compiled jquery.ui.chatbox.sstreampresence.js  (0ms)  (pid 31205)
+Compiled presence.js  (1ms)  (pid 31205)
+Compiled presence_XmppClient.js  (115ms)  (pid 31205)
+Compiled presence_audio.js  (2ms)  (pid 31205)
+Compiled presence_game.js  (7ms)  (pid 31205)
+Compiled presence_game_comunication.js  (7ms)  (pid 31205)
+Compiled presence_game_factory.js  (1ms)  (pid 31205)
+Compiled presence_game_interface.js  (5ms)  (pid 31205)
+Compiled presence_game_sfighter.js  (10ms)  (pid 31205)
+Compiled presence_game_ter.js  (7ms)  (pid 31205)
+Compiled presence_notifications.js  (0ms)  (pid 31205)
+Compiled presence_parser.js  (0ms)  (pid 31205)
+Compiled presence_persistence.js  (0ms)  (pid 31205)
+Compiled presence_store.js  (0ms)  (pid 31205)
+Compiled presence_uiManager.js  (11ms)  (pid 31205)
+Compiled presence_utilities.js  (0ms)  (pid 31205)
+Compiled presence_videochat.js  (9ms)  (pid 31205)
+Compiled presence_windowManager.js  (0ms)  (pid 31205)
+Compiled social_stream-presence.js  (368ms)  (pid 31205)
+Compiled application.js  (3648ms)  (pid 31205)
+Connecting to database specified by database.yml
+Creating scope :public. Overwriting existing method ActivityObject.public.
+Creating scope :followed_by. Overwriting existing method Actor.followed_by.
+Compiled jquery.js  (100ms)  (pid 31433)
+Compiled jquery_ujs.js  (0ms)  (pid 31433)
+Compiled jquery.ui.core.js  (0ms)  (pid 31433)
+Compiled jquery.ui.widget.js  (0ms)  (pid 31433)
+Compiled jquery.ui.accordion.js  (13ms)  (pid 31433)
+Compiled jquery.ui.position.js  (110ms)  (pid 31433)
+Compiled jquery.ui.menu.js  (125ms)  (pid 31433)
+Compiled jquery.ui.autocomplete.js  (143ms)  (pid 31433)
+Compiled jquery.ui.button.js  (9ms)  (pid 31433)
+Compiled jquery.ui.datepicker.js  (5ms)  (pid 31433)
+Compiled jquery.ui.mouse.js  (8ms)  (pid 31433)
+Compiled jquery.ui.draggable.js  (23ms)  (pid 31433)
+Compiled jquery.ui.resizable.js  (12ms)  (pid 31433)
+Compiled jquery.ui.dialog.js  (64ms)  (pid 31433)
+Compiled jquery.ui.droppable.js  (15ms)  (pid 31433)
+Compiled jquery.ui.effect.js  (0ms)  (pid 31433)
+Compiled jquery.ui.effect-blind.js  (6ms)  (pid 31433)
+Compiled jquery.ui.effect-bounce.js  (4ms)  (pid 31433)
+Compiled jquery.ui.effect-clip.js  (4ms)  (pid 31433)
+Compiled jquery.ui.effect-drop.js  (4ms)  (pid 31433)
+Compiled jquery.ui.effect-explode.js  (4ms)  (pid 31433)
+Compiled jquery.ui.effect-fade.js  (4ms)  (pid 31433)
+Compiled jquery.ui.effect-fold.js  (105ms)  (pid 31433)
+Compiled jquery.ui.effect-highlight.js  (5ms)  (pid 31433)
+Compiled jquery.ui.effect-pulsate.js  (5ms)  (pid 31433)
+Compiled jquery.ui.effect-scale.js  (4ms)  (pid 31433)
+Compiled jquery.ui.effect-shake.js  (4ms)  (pid 31433)
+Compiled jquery.ui.effect-slide.js  (4ms)  (pid 31433)
+Compiled jquery.ui.effect-transfer.js  (4ms)  (pid 31433)
+Compiled jquery.ui.progressbar.js  (8ms)  (pid 31433)
+Compiled jquery.ui.selectable.js  (12ms)  (pid 31433)
+Compiled jquery.ui.slider.js  (12ms)  (pid 31433)
+Compiled jquery.ui.sortable.js  (12ms)  (pid 31433)
+Compiled jquery.ui.spinner.js  (11ms)  (pid 31433)
+Compiled jquery.ui.tabs.js  (8ms)  (pid 31433)
+Compiled jquery.ui.tooltip.js  (11ms)  (pid 31433)
+Compiled jquery.ui.all.js  (768ms)  (pid 31433)
+Compiled modernizr.js  (0ms)  (pid 31433)
+Compiled bootstrap-transition.js  (0ms)  (pid 31433)
+Compiled bootstrap-affix.js  (0ms)  (pid 31433)
+Compiled bootstrap-alert.js  (0ms)  (pid 31433)
+Compiled bootstrap-button.js  (0ms)  (pid 31433)
+Compiled bootstrap-carousel.js  (0ms)  (pid 31433)
+Compiled bootstrap-collapse.js  (0ms)  (pid 31433)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 31433)
+Compiled bootstrap-modal.js  (0ms)  (pid 31433)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 31433)
+Compiled bootstrap-tab.js  (0ms)  (pid 31433)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 31433)
+Compiled bootstrap-popover.js  (0ms)  (pid 31433)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 31433)
+Compiled bootstrap.js  (169ms)  (pid 31433)
+Compiled bootstrap-multiselect.js  (0ms)  (pid 31433)
+Compiled bootstrap-scroll-modal.js  (0ms)  (pid 31433)
+Compiled i18n.js  (0ms)  (pid 31433)
+Compiled i18n/translations.js  (796ms)  (pid 31433)
+Compiled flashy.js  (5ms)  (pid 31433)
+Compiled colorfont.js  (0ms)  (pid 31433)
+Compiled jquery.Jcrop.js  (1ms)  (pid 31433)
+Compiled jquery.form.js  (0ms)  (pid 31433)
+Compiled jquery.fileupload.js  (1ms)  (pid 31433)
+Compiled avatars_for_rails.js  (36ms)  (pid 31433)
+Compiled social_stream/callback.js  (0ms)  (pid 31433)
+Compiled social_stream/action.js  (100ms)  (pid 31433)
+Compiled social_stream/actor.js  (0ms)  (pid 31433)
+Compiled social_stream/audience.js  (4ms)  (pid 31433)
+Compiled jquery.autosize.js  (0ms)  (pid 31433)
+Compiled social_stream/comment.js  (60ms)  (pid 31433)
+Compiled social_stream/contact.js  (4ms)  (pid 31433)
+Compiled jquery.scrollTo.min.js  (0ms)  (pid 31433)
+Compiled jquery.validate.js  (0ms)  (pid 31433)
+Compiled jquery.browser.js  (0ms)  (pid 31433)
+Compiled jquery.cleditor.js  (0ms)  (pid 31433)
+Compiled social_stream/pagination.js  (0ms)  (pid 31433)
+Compiled social_stream/conversation.js  (29ms)  (pid 31433)
+Compiled social_stream/explore.js  (3ms)  (pid 31433)
+Compiled social_stream/flash.js  (0ms)  (pid 31433)
+Compiled select2.js  (2ms)  (pid 31433)
+Compiled jqcloud-0.1.3.js  (0ms)  (pid 31433)
+Compiled jquery.ba-url.js  (0ms)  (pid 31433)
+Compiled social_stream/group.js  (28ms)  (pid 31433)
+Compiled jquery.ae.image.resize.js  (0ms)  (pid 31433)
+Compiled social_stream/message.js  (18ms)  (pid 31433)
+Compiled social_stream/notification.js  (3ms)  (pid 31433)
+Compiled social_stream/object.js  (8ms)  (pid 31433)
+Compiled social_stream/permission.js  (0ms)  (pid 31433)
+Compiled social_stream/post.js  (3ms)  (pid 31433)
+Compiled social_stream/profile.js  (7ms)  (pid 31433)
+Compiled social_stream/relation_customs.js  (3ms)  (pid 31433)
+Compiled social_stream/repository.js  (3ms)  (pid 31433)
+Compiled jquery.watermark.js  (0ms)  (pid 31433)
+Compiled social_stream/search.js  (9ms)  (pid 31433)
+Compiled social_stream/search_header.js  (3ms)  (pid 31433)
+Compiled social_stream/tag.js  (4ms)  (pid 31433)
+Compiled d3.js  (1ms)  (pid 31433)
+Compiled d3.layout.js  (1ms)  (pid 31433)
+Compiled d3.geom.js  (0ms)  (pid 31433)
+Compiled social_stream/tie.js  (19ms)  (pid 31433)
+Compiled social_stream/wall.js  (9ms)  (pid 31433)
+Compiled social_stream/timeline.js  (29ms)  (pid 31433)
+Compiled social_stream/user.js  (3ms)  (pid 31433)
+Compiled social_stream-base.js  (2353ms)  (pid 31433)
+Compiled jquery.jplayer.js  (0ms)  (pid 31433)
+Compiled social_stream/audio.js  (5ms)  (pid 31433)
+Compiled social_stream/document.js  (3ms)  (pid 31433)
+Compiled social_stream/video.js  (4ms)  (pid 31433)
+Compiled social_stream/documents.timeline.js  (16ms)  (pid 31433)
+Compiled social_stream/documents.wall.js  (4ms)  (pid 31433)
+Compiled social_stream-documents.js  (156ms)  (pid 31433)
+Compiled jquery.boxy.js  (0ms)  (pid 31433)
+Compiled fullcalendar.js  (2ms)  (pid 31433)
+Compiled scheduler/form.js  (0ms)  (pid 31433)
+Compiled scheduler.js  (6ms)  (pid 31433)
+Compiled jquery.tipsy.js  (0ms)  (pid 31433)
+Compiled social_stream/calendar.js  (7ms)  (pid 31433)
+Compiled social_stream/events.poster.js  (3ms)  (pid 31433)
+Compiled social_stream/event.js  (11ms)  (pid 31433)
+Compiled social_stream/events.action.js  (3ms)  (pid 31433)
+Compiled social_stream/events.timeline.js  (5ms)  (pid 31433)
+Compiled social_stream/fullcalendar.js  (6ms)  (pid 31433)
+Compiled social_stream-events.js  (74ms)  (pid 31433)
+Compiled social_stream/link.js  (3ms)  (pid 31433)
+Compiled social_stream/linkser.timeline.js  (6ms)  (pid 31433)
+Compiled social_stream/linkser.wall.js  (7ms)  (pid 31433)
+Compiled social_stream-linkser.js  (130ms)  (pid 31433)
+Compiled strophe.js  (1ms)  (pid 31433)
+Compiled strophe.muc.js  (0ms)  (pid 31433)
+Compiled jquery.tools.tooltip.js  (0ms)  (pid 31433)
+Compiled liquidmetal.js  (0ms)  (pid 31433)
+Compiled TB.min.js  (2ms)  (pid 31433)
+Compiled jquery.flexselect.sstreampresence.js  (0ms)  (pid 31433)
+Compiled jquery.ui.chatbox.sstreampresence.js  (0ms)  (pid 31433)
+Compiled presence.js  (1ms)  (pid 31433)
+Compiled presence_XmppClient.js  (116ms)  (pid 31433)
+Compiled presence_audio.js  (12ms)  (pid 31433)
+Compiled presence_game.js  (6ms)  (pid 31433)
+Compiled presence_game_comunication.js  (6ms)  (pid 31433)
+Compiled presence_game_factory.js  (1ms)  (pid 31433)
+Compiled presence_game_interface.js  (4ms)  (pid 31433)
+Compiled presence_game_sfighter.js  (10ms)  (pid 31433)
+Compiled presence_game_ter.js  (6ms)  (pid 31433)
+Compiled presence_notifications.js  (0ms)  (pid 31433)
+Compiled presence_parser.js  (0ms)  (pid 31433)
+Compiled presence_persistence.js  (0ms)  (pid 31433)
+Compiled presence_store.js  (0ms)  (pid 31433)
+Compiled presence_uiManager.js  (21ms)  (pid 31433)
+Compiled presence_utilities.js  (0ms)  (pid 31433)
+Compiled presence_videochat.js  (8ms)  (pid 31433)
+Compiled presence_windowManager.js  (0ms)  (pid 31433)
+Compiled social_stream-presence.js  (369ms)  (pid 31433)
+Compiled application.js  (3255ms)  (pid 31433)
+Compiled bootstrap-scroll-modal.css  (0ms)  (pid 31433)
+Compiled social_stream/base/logo/_logo-in.css  (0ms)  (pid 31433)
+Compiled social_stream/base/logo/_logo-out.css  (0ms)  (pid 31433)
+Compiled social_stream/fonts/fonts.css  (0ms)  (pid 31433)
+Compiled social_stream/fonts/colorfont.css  (0ms)  (pid 31433)
+Compiled social_stream/base/icons/icon.css.css  (0ms)  (pid 31433)
+WARNING on line 4 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/conversation/_conversation.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.cleditor.css  (0ms)  (pid 31433)
+WARNING on line 9 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/conversation/responsive/_responsive-767px-max.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 124 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/explore/layout/_explore-timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 27 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/explore/responsive/_responsive-768px-979px.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jqcloud.css  (0ms)  (pid 31433)
+WARNING on line 8 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/profile/_profile.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.Jcrop.css  (0ms)  (pid 31433)
+Compiled avatars_for_rails.css  (7ms)  (pid 31433)
+WARNING on line 94 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/toolbar/layout/_toolbar.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 7 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 93 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled chosen.css  (0ms)  (pid 31433)
+WARNING on line 8 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/layout/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 75 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/layout/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 57 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/responsive/_responsive-1200px-min.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 75 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/responsive/_responsive-767px-max.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jplayer.blue.monday.css  (0ms)  (pid 31433)
+WARNING on line 59 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/timeline/layout/_audios.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 60 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/timeline/layout/_audios.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled fullcalendar.css  (0ms)  (pid 31433)
+WARNING on line 13 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/linkser/app/assets/stylesheets/social_stream/linkser/explore/search/layout/_search-result.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 15 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/linkser/app/assets/stylesheets/social_stream/linkser/explore/timeline/layout/_timeline-result.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.ui.chatbox.css  (0ms)  (pid 31433)
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "#picture .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #audio .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #video .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #document .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+Compiled social_stream.css  (9532ms)  (pid 31433)
+Compiled _variables.css  (1ms)  (pid 31433)
+Compiled fonts.css  (0ms)  (pid 31433)
+Compiled social_stream/_frontpage.css  (3ms)  (pid 31433)
+Compiled application.css  (9597ms)  (pid 31433)
+Connecting to database specified by database.yml
+Creating scope :public. Overwriting existing method ActivityObject.public.
+Creating scope :followed_by. Overwriting existing method Actor.followed_by.
+Compiled jquery.js  (3ms)  (pid 31433)
+Compiled jquery_ujs.js  (0ms)  (pid 31433)
+Compiled jquery.ui.core.js  (0ms)  (pid 31433)
+Compiled jquery.ui.widget.js  (0ms)  (pid 31433)
+Compiled jquery.ui.accordion.js  (1196ms)  (pid 31433)
+Compiled jquery.ui.position.js  (0ms)  (pid 31433)
+Compiled jquery.ui.menu.js  (124ms)  (pid 31433)
+Compiled jquery.ui.autocomplete.js  (348ms)  (pid 31433)
+Compiled jquery.ui.button.js  (118ms)  (pid 31433)
+Compiled jquery.ui.datepicker.js  (7ms)  (pid 31433)
+Compiled jquery.ui.mouse.js  (117ms)  (pid 31433)
+Compiled jquery.ui.draggable.js  (241ms)  (pid 31433)
+Compiled jquery.ui.resizable.js  (120ms)  (pid 31433)
+Compiled jquery.ui.dialog.js  (706ms)  (pid 31433)
+Compiled jquery.ui.droppable.js  (124ms)  (pid 31433)
+Compiled jquery.ui.effect.js  (0ms)  (pid 31433)
+Compiled jquery.ui.effect-blind.js  (7ms)  (pid 31433)
+Compiled jquery.ui.effect-bounce.js  (113ms)  (pid 31433)
+Compiled jquery.ui.effect-clip.js  (4ms)  (pid 31433)
+Compiled jquery.ui.effect-drop.js  (4ms)  (pid 31433)
+Compiled jquery.ui.effect-explode.js  (112ms)  (pid 31433)
+Compiled jquery.ui.effect-fade.js  (4ms)  (pid 31433)
+Compiled jquery.ui.effect-fold.js  (112ms)  (pid 31433)
+Compiled jquery.ui.effect-highlight.js  (4ms)  (pid 31433)
+Compiled jquery.ui.effect-pulsate.js  (113ms)  (pid 31433)
+Compiled jquery.ui.effect-scale.js  (4ms)  (pid 31433)
+Compiled jquery.ui.effect-shake.js  (4ms)  (pid 31433)
+Compiled jquery.ui.effect-slide.js  (112ms)  (pid 31433)
+Compiled jquery.ui.effect-transfer.js  (4ms)  (pid 31433)
+Compiled jquery.ui.progressbar.js  (119ms)  (pid 31433)
+Compiled jquery.ui.selectable.js  (121ms)  (pid 31433)
+Compiled jquery.ui.slider.js  (120ms)  (pid 31433)
+Compiled jquery.ui.sortable.js  (120ms)  (pid 31433)
+Compiled jquery.ui.spinner.js  (120ms)  (pid 31433)
+Compiled jquery.ui.tabs.js  (116ms)  (pid 31433)
+Compiled jquery.ui.tooltip.js  (123ms)  (pid 31433)
+Compiled jquery.ui.all.js  (8995ms)  (pid 31433)
+Compiled modernizr.js  (0ms)  (pid 31433)
+Compiled bootstrap-transition.js  (0ms)  (pid 31433)
+Compiled bootstrap-affix.js  (0ms)  (pid 31433)
+Compiled bootstrap-alert.js  (0ms)  (pid 31433)
+Compiled bootstrap-button.js  (0ms)  (pid 31433)
+Compiled bootstrap-carousel.js  (0ms)  (pid 31433)
+Compiled bootstrap-collapse.js  (0ms)  (pid 31433)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 31433)
+Compiled bootstrap-modal.js  (0ms)  (pid 31433)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 31433)
+Compiled bootstrap-tab.js  (0ms)  (pid 31433)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 31433)
+Compiled bootstrap-popover.js  (0ms)  (pid 31433)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 31433)
+Compiled bootstrap.js  (599ms)  (pid 31433)
+Compiled bootstrap-multiselect.js  (0ms)  (pid 31433)
+Compiled bootstrap-scroll-modal.js  (0ms)  (pid 31433)
+Compiled i18n.js  (0ms)  (pid 31433)
+Compiled i18n/translations.js  (8727ms)  (pid 31433)
+Compiled flashy.js  (5ms)  (pid 31433)
+Compiled colorfont.js  (0ms)  (pid 31433)
+Compiled jquery.Jcrop.js  (0ms)  (pid 31433)
+Compiled jquery.form.js  (0ms)  (pid 31433)
+Compiled jquery.fileupload.js  (109ms)  (pid 31433)
+Compiled avatars_for_rails.js  (361ms)  (pid 31433)
+Compiled social_stream/callback.js  (0ms)  (pid 31433)
+Compiled social_stream/action.js  (6ms)  (pid 31433)
+Compiled social_stream/actor.js  (0ms)  (pid 31433)
+Compiled social_stream/audience.js  (3ms)  (pid 31433)
+Compiled jquery.autosize.js  (0ms)  (pid 31433)
+Compiled social_stream/comment.js  (116ms)  (pid 31433)
+Compiled social_stream/contact.js  (3ms)  (pid 31433)
+Compiled jquery.scrollTo.min.js  (0ms)  (pid 31433)
+Compiled jquery.validate.js  (1ms)  (pid 31433)
+Compiled jquery.browser.js  (0ms)  (pid 31433)
+Compiled jquery.cleditor.js  (0ms)  (pid 31433)
+Compiled social_stream/pagination.js  (0ms)  (pid 31433)
+Compiled social_stream/conversation.js  (1197ms)  (pid 31433)
+Compiled social_stream/explore.js  (100ms)  (pid 31433)
+Compiled social_stream/flash.js  (0ms)  (pid 31433)
+Compiled select2.js  (1ms)  (pid 31433)
+Compiled jqcloud-0.1.3.js  (0ms)  (pid 31433)
+Compiled jquery.ba-url.js  (0ms)  (pid 31433)
+Compiled social_stream/group.js  (354ms)  (pid 31433)
+Compiled jquery.ae.image.resize.js  (0ms)  (pid 31433)
+Compiled social_stream/message.js  (127ms)  (pid 31433)
+Compiled social_stream/notification.js  (3ms)  (pid 31433)
+Compiled social_stream/object.js  (115ms)  (pid 31433)
+Compiled social_stream/permission.js  (0ms)  (pid 31433)
+Compiled social_stream/post.js  (3ms)  (pid 31433)
+Compiled social_stream/profile.js  (114ms)  (pid 31433)
+Compiled social_stream/relation_customs.js  (3ms)  (pid 31433)
+Compiled social_stream/repository.js  (4ms)  (pid 31433)
+Compiled jquery.watermark.js  (0ms)  (pid 31433)
+Compiled social_stream/search.js  (117ms)  (pid 31433)
+Compiled social_stream/search_header.js  (111ms)  (pid 31433)
+Compiled social_stream/tag.js  (4ms)  (pid 31433)
+Compiled d3.js  (1ms)  (pid 31433)
+Compiled d3.layout.js  (0ms)  (pid 31433)
+Compiled d3.geom.js  (0ms)  (pid 31433)
+Compiled social_stream/tie.js  (238ms)  (pid 31433)
+Compiled social_stream/wall.js  (118ms)  (pid 31433)
+Compiled social_stream/timeline.js  (343ms)  (pid 31433)
+Compiled social_stream/user.js  (100ms)  (pid 31433)
+Compiled social_stream-base.js  (24245ms)  (pid 31433)
+Compiled jquery.jplayer.js  (108ms)  (pid 31433)
+Compiled social_stream/audio.js  (4ms)  (pid 31433)
+Compiled social_stream/document.js  (112ms)  (pid 31433)
+Compiled social_stream/video.js  (4ms)  (pid 31433)
+Compiled social_stream/documents.timeline.js  (1239ms)  (pid 31433)
+Compiled social_stream/documents.wall.js  (112ms)  (pid 31433)
+Compiled social_stream-documents.js  (1601ms)  (pid 31433)
+Compiled jquery.boxy.js  (0ms)  (pid 31433)
+Compiled fullcalendar.js  (110ms)  (pid 31433)
+Compiled scheduler/form.js  (0ms)  (pid 31433)
+Compiled scheduler.js  (7ms)  (pid 31433)
+Compiled jquery.tipsy.js  (0ms)  (pid 31433)
+Compiled social_stream/calendar.js  (8ms)  (pid 31433)
+Compiled social_stream/events.poster.js  (3ms)  (pid 31433)
+Compiled social_stream/event.js  (11ms)  (pid 31433)
+Compiled social_stream/events.action.js  (3ms)  (pid 31433)
+Compiled social_stream/events.timeline.js  (114ms)  (pid 31433)
+Compiled social_stream/fullcalendar.js  (7ms)  (pid 31433)
+Compiled social_stream-events.js  (824ms)  (pid 31433)
+Compiled social_stream/link.js  (3ms)  (pid 31433)
+Compiled social_stream/linkser.timeline.js  (113ms)  (pid 31433)
+Compiled social_stream/linkser.wall.js  (7ms)  (pid 31433)
+Compiled social_stream-linkser.js  (1407ms)  (pid 31433)
+Compiled strophe.js  (1ms)  (pid 31433)
+Compiled strophe.muc.js  (0ms)  (pid 31433)
+Compiled jquery.tools.tooltip.js  (0ms)  (pid 31433)
+Compiled liquidmetal.js  (0ms)  (pid 31433)
+Compiled TB.min.js  (111ms)  (pid 31433)
+Compiled jquery.flexselect.sstreampresence.js  (0ms)  (pid 31433)
+Compiled jquery.ui.chatbox.sstreampresence.js  (0ms)  (pid 31433)
+Compiled presence.js  (1ms)  (pid 31433)
+Compiled presence_XmppClient.js  (1176ms)  (pid 31433)
+Compiled presence_audio.js  (2ms)  (pid 31433)
+Compiled presence_game.js  (115ms)  (pid 31433)
+Compiled presence_game_comunication.js  (116ms)  (pid 31433)
+Compiled presence_game_factory.js  (1ms)  (pid 31433)
+Compiled presence_game_interface.js  (101ms)  (pid 31433)
+Compiled presence_game_sfighter.js  (118ms)  (pid 31433)
+Compiled presence_game_ter.js  (116ms)  (pid 31433)
+Compiled presence_notifications.js  (0ms)  (pid 31433)
+Compiled presence_parser.js  (0ms)  (pid 31433)
+Compiled presence_persistence.js  (0ms)  (pid 31433)
+Compiled presence_store.js  (0ms)  (pid 31433)
+Compiled presence_uiManager.js  (119ms)  (pid 31433)
+Compiled presence_utilities.js  (0ms)  (pid 31433)
+Compiled presence_videochat.js  (117ms)  (pid 31433)
+Compiled presence_windowManager.js  (0ms)  (pid 31433)
+Compiled social_stream-presence.js  (3758ms)  (pid 31433)
+Compiled application.js  (33835ms)  (pid 31433)
+Compiled bootstrap-scroll-modal.css  (108ms)  (pid 31433)
+Compiled social_stream/base/logo/_logo-in.css  (0ms)  (pid 31433)
+Compiled social_stream/base/logo/_logo-out.css  (0ms)  (pid 31433)
+Compiled social_stream/fonts/fonts.css  (0ms)  (pid 31433)
+Compiled social_stream/fonts/colorfont.css  (0ms)  (pid 31433)
+Compiled social_stream/base/icons/icon.css.css  (0ms)  (pid 31433)
+WARNING on line 4 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/conversation/_conversation.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.cleditor.css  (0ms)  (pid 31433)
+WARNING on line 9 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/conversation/responsive/_responsive-767px-max.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 124 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/explore/layout/_explore-timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 27 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/explore/responsive/_responsive-768px-979px.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jqcloud.css  (0ms)  (pid 31433)
+WARNING on line 8 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/profile/_profile.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.Jcrop.css  (0ms)  (pid 31433)
+Compiled avatars_for_rails.css  (115ms)  (pid 31433)
+WARNING on line 94 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/toolbar/layout/_toolbar.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 7 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 93 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled chosen.css  (0ms)  (pid 31433)
+WARNING on line 8 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/layout/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 75 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/layout/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 57 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/responsive/_responsive-1200px-min.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 75 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/responsive/_responsive-767px-max.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jplayer.blue.monday.css  (0ms)  (pid 31433)
+WARNING on line 59 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/timeline/layout/_audios.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 60 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/timeline/layout/_audios.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled fullcalendar.css  (0ms)  (pid 31433)
+WARNING on line 13 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/linkser/app/assets/stylesheets/social_stream/linkser/explore/search/layout/_search-result.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 15 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/linkser/app/assets/stylesheets/social_stream/linkser/explore/timeline/layout/_timeline-result.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.ui.chatbox.css  (0ms)  (pid 31433)
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "#picture .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #audio .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #video .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #document .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+Compiled social_stream.css  (81052ms)  (pid 31433)
+Compiled _variables.css  (1ms)  (pid 31433)
+Compiled fonts.css  (0ms)  (pid 31433)
+Compiled social_stream/_frontpage.css  (4ms)  (pid 31433)
+Compiled application.css  (81194ms)  (pid 31433)
+Connecting to database specified by database.yml
+Creating scope :public. Overwriting existing method ActivityObject.public.
+Creating scope :followed_by. Overwriting existing method Actor.followed_by.
+Compiled jquery.js  (4ms)  (pid 31932)
+Compiled jquery_ujs.js  (0ms)  (pid 31932)
+Compiled jquery.ui.core.js  (0ms)  (pid 31932)
+Compiled jquery.ui.widget.js  (0ms)  (pid 31932)
+Compiled jquery.ui.accordion.js  (12ms)  (pid 31932)
+Compiled jquery.ui.position.js  (0ms)  (pid 31932)
+Compiled jquery.ui.menu.js  (14ms)  (pid 31932)
+Compiled jquery.ui.autocomplete.js  (31ms)  (pid 31932)
+Compiled jquery.ui.button.js  (7ms)  (pid 31932)
+Compiled jquery.ui.datepicker.js  (4ms)  (pid 31932)
+Compiled jquery.ui.mouse.js  (8ms)  (pid 31932)
+Compiled jquery.ui.draggable.js  (24ms)  (pid 31932)
+Compiled jquery.ui.resizable.js  (118ms)  (pid 31932)
+Compiled jquery.ui.dialog.js  (173ms)  (pid 31932)
+Compiled jquery.ui.droppable.js  (16ms)  (pid 31932)
+Compiled jquery.ui.effect.js  (0ms)  (pid 31932)
+Compiled jquery.ui.effect-blind.js  (6ms)  (pid 31932)
+Compiled jquery.ui.effect-bounce.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-clip.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-drop.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-explode.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-fade.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-fold.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-highlight.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-pulsate.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-scale.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-shake.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-slide.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-transfer.js  (4ms)  (pid 31932)
+Compiled jquery.ui.progressbar.js  (8ms)  (pid 31932)
+Compiled jquery.ui.selectable.js  (11ms)  (pid 31932)
+Compiled jquery.ui.slider.js  (11ms)  (pid 31932)
+Compiled jquery.ui.sortable.js  (12ms)  (pid 31932)
+Compiled jquery.ui.spinner.js  (11ms)  (pid 31932)
+Compiled jquery.ui.tabs.js  (10ms)  (pid 31932)
+Compiled jquery.ui.tooltip.js  (13ms)  (pid 31932)
+Compiled jquery.ui.all.js  (781ms)  (pid 31932)
+Compiled modernizr.js  (0ms)  (pid 31932)
+Compiled bootstrap-transition.js  (0ms)  (pid 31932)
+Compiled bootstrap-affix.js  (0ms)  (pid 31932)
+Compiled bootstrap-alert.js  (0ms)  (pid 31932)
+Compiled bootstrap-button.js  (0ms)  (pid 31932)
+Compiled bootstrap-carousel.js  (0ms)  (pid 31932)
+Compiled bootstrap-collapse.js  (0ms)  (pid 31932)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 31932)
+Compiled bootstrap-modal.js  (0ms)  (pid 31932)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 31932)
+Compiled bootstrap-tab.js  (0ms)  (pid 31932)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 31932)
+Compiled bootstrap-popover.js  (0ms)  (pid 31932)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 31932)
+Compiled bootstrap.js  (68ms)  (pid 31932)
+Compiled bootstrap-multiselect.js  (0ms)  (pid 31932)
+Compiled bootstrap-scroll-modal.js  (0ms)  (pid 31932)
+Compiled i18n.js  (0ms)  (pid 31932)
+Compiled i18n/translations.js  (789ms)  (pid 31932)
+Compiled flashy.js  (5ms)  (pid 31932)
+Compiled colorfont.js  (0ms)  (pid 31932)
+Compiled jquery.Jcrop.js  (1ms)  (pid 31932)
+Compiled jquery.form.js  (0ms)  (pid 31932)
+Compiled jquery.fileupload.js  (1ms)  (pid 31932)
+Compiled avatars_for_rails.js  (36ms)  (pid 31932)
+Compiled social_stream/callback.js  (0ms)  (pid 31932)
+Compiled social_stream/action.js  (6ms)  (pid 31932)
+Compiled social_stream/actor.js  (0ms)  (pid 31932)
+Compiled social_stream/audience.js  (3ms)  (pid 31932)
+Compiled jquery.autosize.js  (0ms)  (pid 31932)
+Compiled social_stream/comment.js  (8ms)  (pid 31932)
+Compiled social_stream/contact.js  (3ms)  (pid 31932)
+Compiled jquery.scrollTo.min.js  (0ms)  (pid 31932)
+Compiled jquery.validate.js  (0ms)  (pid 31932)
+Compiled jquery.browser.js  (0ms)  (pid 31932)
+Compiled jquery.cleditor.js  (0ms)  (pid 31932)
+Compiled social_stream/pagination.js  (0ms)  (pid 31932)
+Compiled social_stream/conversation.js  (30ms)  (pid 31932)
+Compiled social_stream/explore.js  (3ms)  (pid 31932)
+Compiled social_stream/flash.js  (0ms)  (pid 31932)
+Compiled select2.js  (1ms)  (pid 31932)
+Compiled jqcloud-0.1.3.js  (0ms)  (pid 31932)
+Compiled jquery.ba-url.js  (0ms)  (pid 31932)
+Compiled social_stream/group.js  (29ms)  (pid 31932)
+Compiled jquery.ae.image.resize.js  (0ms)  (pid 31932)
+Compiled social_stream/message.js  (19ms)  (pid 31932)
+Compiled social_stream/notification.js  (3ms)  (pid 31932)
+Compiled social_stream/object.js  (7ms)  (pid 31932)
+Compiled social_stream/permission.js  (0ms)  (pid 31932)
+Compiled social_stream/post.js  (3ms)  (pid 31932)
+Compiled social_stream/profile.js  (7ms)  (pid 31932)
+Compiled social_stream/relation_customs.js  (3ms)  (pid 31932)
+Compiled social_stream/repository.js  (3ms)  (pid 31932)
+Compiled jquery.watermark.js  (0ms)  (pid 31932)
+Compiled social_stream/search.js  (9ms)  (pid 31932)
+Compiled social_stream/search_header.js  (3ms)  (pid 31932)
+Compiled social_stream/tag.js  (3ms)  (pid 31932)
+Compiled d3.js  (1ms)  (pid 31932)
+Compiled d3.layout.js  (99ms)  (pid 31932)
+Compiled d3.geom.js  (0ms)  (pid 31932)
+Compiled social_stream/tie.js  (116ms)  (pid 31932)
+Compiled social_stream/wall.js  (10ms)  (pid 31932)
+Compiled social_stream/timeline.js  (30ms)  (pid 31932)
+Compiled social_stream/user.js  (3ms)  (pid 31932)
+Compiled social_stream-base.js  (2297ms)  (pid 31932)
+Compiled jquery.jplayer.js  (0ms)  (pid 31932)
+Compiled social_stream/audio.js  (4ms)  (pid 31932)
+Compiled social_stream/document.js  (3ms)  (pid 31932)
+Compiled social_stream/video.js  (3ms)  (pid 31932)
+Compiled social_stream/documents.timeline.js  (14ms)  (pid 31932)
+Compiled social_stream/documents.wall.js  (3ms)  (pid 31932)
+Compiled social_stream-documents.js  (45ms)  (pid 31932)
+Compiled jquery.boxy.js  (0ms)  (pid 31932)
+Compiled fullcalendar.js  (1ms)  (pid 31932)
+Compiled scheduler/form.js  (0ms)  (pid 31932)
+Compiled scheduler.js  (113ms)  (pid 31932)
+Compiled jquery.tipsy.js  (0ms)  (pid 31932)
+Compiled social_stream/calendar.js  (8ms)  (pid 31932)
+Compiled social_stream/events.poster.js  (3ms)  (pid 31932)
+Compiled social_stream/event.js  (12ms)  (pid 31932)
+Compiled social_stream/events.action.js  (3ms)  (pid 31932)
+Compiled social_stream/events.timeline.js  (6ms)  (pid 31932)
+Compiled social_stream/fullcalendar.js  (7ms)  (pid 31932)
+Compiled social_stream-events.js  (183ms)  (pid 31932)
+Compiled social_stream/link.js  (3ms)  (pid 31932)
+Compiled social_stream/linkser.timeline.js  (5ms)  (pid 31932)
+Compiled social_stream/linkser.wall.js  (6ms)  (pid 31932)
+Compiled social_stream-linkser.js  (26ms)  (pid 31932)
+Compiled strophe.js  (1ms)  (pid 31932)
+Compiled strophe.muc.js  (0ms)  (pid 31932)
+Compiled jquery.tools.tooltip.js  (0ms)  (pid 31932)
+Compiled liquidmetal.js  (0ms)  (pid 31932)
+Compiled TB.min.js  (103ms)  (pid 31932)
+Compiled jquery.flexselect.sstreampresence.js  (0ms)  (pid 31932)
+Compiled jquery.ui.chatbox.sstreampresence.js  (0ms)  (pid 31932)
+Compiled presence.js  (1ms)  (pid 31932)
+Compiled presence_XmppClient.js  (20ms)  (pid 31932)
+Compiled presence_audio.js  (12ms)  (pid 31932)
+Compiled presence_game.js  (5ms)  (pid 31932)
+Compiled presence_game_comunication.js  (6ms)  (pid 31932)
+Compiled presence_game_factory.js  (1ms)  (pid 31932)
+Compiled presence_game_interface.js  (4ms)  (pid 31932)
+Compiled presence_game_sfighter.js  (10ms)  (pid 31932)
+Compiled presence_game_ter.js  (7ms)  (pid 31932)
+Compiled presence_notifications.js  (0ms)  (pid 31932)
+Compiled presence_parser.js  (0ms)  (pid 31932)
+Compiled presence_persistence.js  (0ms)  (pid 31932)
+Compiled presence_store.js  (0ms)  (pid 31932)
+Compiled presence_uiManager.js  (19ms)  (pid 31932)
+Compiled presence_utilities.js  (0ms)  (pid 31932)
+Compiled presence_videochat.js  (8ms)  (pid 31932)
+Compiled presence_windowManager.js  (0ms)  (pid 31932)
+Compiled social_stream-presence.js  (456ms)  (pid 31932)
+Compiled application.js  (3079ms)  (pid 31932)
+Compiled bootstrap-scroll-modal.css  (0ms)  (pid 31932)
+Compiled social_stream/base/logo/_logo-in.css  (0ms)  (pid 31932)
+Compiled social_stream/base/logo/_logo-out.css  (0ms)  (pid 31932)
+Compiled social_stream/fonts/fonts.css  (0ms)  (pid 31932)
+Compiled social_stream/fonts/colorfont.css  (0ms)  (pid 31932)
+Compiled social_stream/base/icons/icon.css.css  (0ms)  (pid 31932)
+WARNING on line 4 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/conversation/_conversation.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.cleditor.css  (0ms)  (pid 31932)
+WARNING on line 9 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/conversation/responsive/_responsive-767px-max.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 124 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/explore/layout/_explore-timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 27 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/explore/responsive/_responsive-768px-979px.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jqcloud.css  (0ms)  (pid 31932)
+WARNING on line 8 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/profile/_profile.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.Jcrop.css  (0ms)  (pid 31932)
+Compiled avatars_for_rails.css  (10ms)  (pid 31932)
+WARNING on line 94 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/toolbar/layout/_toolbar.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 7 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 93 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled chosen.css  (0ms)  (pid 31932)
+WARNING on line 8 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/layout/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 75 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/layout/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 57 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/responsive/_responsive-1200px-min.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 75 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/responsive/_responsive-767px-max.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jplayer.blue.monday.css  (0ms)  (pid 31932)
+WARNING on line 59 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/timeline/layout/_audios.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 60 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/timeline/layout/_audios.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled fullcalendar.css  (0ms)  (pid 31932)
+WARNING on line 13 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/linkser/app/assets/stylesheets/social_stream/linkser/explore/search/layout/_search-result.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 15 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/linkser/app/assets/stylesheets/social_stream/linkser/explore/timeline/layout/_timeline-result.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.ui.chatbox.css  (0ms)  (pid 31932)
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "#picture .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #audio .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #video .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #document .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+Compiled social_stream.css  (23354ms)  (pid 31932)
+Compiled _variables.css  (1ms)  (pid 31932)
+Compiled fonts.css  (0ms)  (pid 31932)
+Compiled social_stream/_frontpage.css  (4ms)  (pid 31932)
+Compiled application.css  (23683ms)  (pid 31932)
+Connecting to database specified by database.yml
+Creating scope :public. Overwriting existing method ActivityObject.public.
+Creating scope :followed_by. Overwriting existing method Actor.followed_by.
+Compiled jquery.js  (4ms)  (pid 31932)
+Compiled jquery_ujs.js  (0ms)  (pid 31932)
+Compiled jquery.ui.core.js  (0ms)  (pid 31932)
+Compiled jquery.ui.widget.js  (0ms)  (pid 31932)
+Compiled jquery.ui.accordion.js  (107ms)  (pid 31932)
+Compiled jquery.ui.position.js  (7ms)  (pid 31932)
+Compiled jquery.ui.menu.js  (68ms)  (pid 31932)
+Compiled jquery.ui.autocomplete.js  (123ms)  (pid 31932)
+Compiled jquery.ui.button.js  (17ms)  (pid 31932)
+Compiled jquery.ui.datepicker.js  (107ms)  (pid 31932)
+Compiled jquery.ui.mouse.js  (10ms)  (pid 31932)
+Compiled jquery.ui.draggable.js  (29ms)  (pid 31932)
+Compiled jquery.ui.resizable.js  (16ms)  (pid 31932)
+Compiled jquery.ui.dialog.js  (315ms)  (pid 31932)
+Compiled jquery.ui.droppable.js  (22ms)  (pid 31932)
+Compiled jquery.ui.effect.js  (0ms)  (pid 31932)
+Compiled jquery.ui.effect-blind.js  (20ms)  (pid 31932)
+Compiled jquery.ui.effect-bounce.js  (5ms)  (pid 31932)
+Compiled jquery.ui.effect-clip.js  (5ms)  (pid 31932)
+Compiled jquery.ui.effect-drop.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-explode.js  (5ms)  (pid 31932)
+Compiled jquery.ui.effect-fade.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-fold.js  (5ms)  (pid 31932)
+Compiled jquery.ui.effect-highlight.js  (5ms)  (pid 31932)
+Compiled jquery.ui.effect-pulsate.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-scale.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-shake.js  (4ms)  (pid 31932)
+Compiled jquery.ui.effect-slide.js  (5ms)  (pid 31932)
+Compiled jquery.ui.effect-transfer.js  (4ms)  (pid 31932)
+Compiled jquery.ui.progressbar.js  (8ms)  (pid 31932)
+Compiled jquery.ui.selectable.js  (13ms)  (pid 31932)
+Compiled jquery.ui.slider.js  (13ms)  (pid 31932)
+Compiled jquery.ui.sortable.js  (14ms)  (pid 31932)
+Compiled jquery.ui.spinner.js  (14ms)  (pid 31932)
+Compiled jquery.ui.tabs.js  (9ms)  (pid 31932)
+Compiled jquery.ui.tooltip.js  (13ms)  (pid 31932)
+Compiled jquery.ui.all.js  (2150ms)  (pid 31932)
+Compiled modernizr.js  (0ms)  (pid 31932)
+Compiled bootstrap-transition.js  (0ms)  (pid 31932)
+Compiled bootstrap-affix.js  (0ms)  (pid 31932)
+Compiled bootstrap-alert.js  (0ms)  (pid 31932)
+Compiled bootstrap-button.js  (0ms)  (pid 31932)
+Compiled bootstrap-carousel.js  (0ms)  (pid 31932)
+Compiled bootstrap-collapse.js  (0ms)  (pid 31932)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 31932)
+Compiled bootstrap-modal.js  (0ms)  (pid 31932)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 31932)
+Compiled bootstrap-tab.js  (0ms)  (pid 31932)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 31932)
+Compiled bootstrap-popover.js  (0ms)  (pid 31932)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 31932)
+Compiled bootstrap.js  (104ms)  (pid 31932)
+Compiled bootstrap-multiselect.js  (0ms)  (pid 31932)
+Compiled bootstrap-scroll-modal.js  (0ms)  (pid 31932)
+Compiled i18n.js  (0ms)  (pid 31932)
+Compiled i18n/translations.js  (1132ms)  (pid 31932)
+Compiled flashy.js  (5ms)  (pid 31932)
+Compiled colorfont.js  (0ms)  (pid 31932)
+Compiled jquery.Jcrop.js  (1ms)  (pid 31932)
+Compiled jquery.form.js  (0ms)  (pid 31932)
+Compiled jquery.fileupload.js  (1ms)  (pid 31932)
+Compiled avatars_for_rails.js  (76ms)  (pid 31932)
+Compiled social_stream/callback.js  (0ms)  (pid 31932)
+Compiled social_stream/action.js  (7ms)  (pid 31932)
+Compiled social_stream/actor.js  (0ms)  (pid 31932)
+Compiled social_stream/audience.js  (4ms)  (pid 31932)
+Compiled jquery.autosize.js  (0ms)  (pid 31932)
+Compiled social_stream/comment.js  (10ms)  (pid 31932)
+Compiled social_stream/contact.js  (4ms)  (pid 31932)
+Compiled jquery.scrollTo.min.js  (0ms)  (pid 31932)
+Compiled jquery.validate.js  (0ms)  (pid 31932)
+Compiled jquery.browser.js  (0ms)  (pid 31932)
+Compiled jquery.cleditor.js  (1ms)  (pid 31932)
+Compiled social_stream/pagination.js  (0ms)  (pid 31932)
+Compiled social_stream/conversation.js  (155ms)  (pid 31932)
+Compiled social_stream/explore.js  (4ms)  (pid 31932)
+Compiled social_stream/flash.js  (0ms)  (pid 31932)
+Compiled select2.js  (1ms)  (pid 31932)
+Compiled jqcloud-0.1.3.js  (0ms)  (pid 31932)
+Compiled jquery.ba-url.js  (0ms)  (pid 31932)
+Compiled social_stream/group.js  (42ms)  (pid 31932)
+Compiled jquery.ae.image.resize.js  (0ms)  (pid 31932)
+Compiled social_stream/message.js  (20ms)  (pid 31932)
+Compiled social_stream/notification.js  (3ms)  (pid 31932)
+Compiled social_stream/object.js  (7ms)  (pid 31932)
+Compiled social_stream/permission.js  (0ms)  (pid 31932)
+Compiled social_stream/post.js  (3ms)  (pid 31932)
+Compiled social_stream/profile.js  (7ms)  (pid 31932)
+Compiled social_stream/relation_customs.js  (3ms)  (pid 31932)
+Compiled social_stream/repository.js  (3ms)  (pid 31932)
+Compiled jquery.watermark.js  (0ms)  (pid 31932)
+Compiled social_stream/search.js  (17ms)  (pid 31932)
+Compiled social_stream/search_header.js  (3ms)  (pid 31932)
+Compiled social_stream/tag.js  (3ms)  (pid 31932)
+Compiled d3.js  (106ms)  (pid 31932)
+Compiled d3.layout.js  (1ms)  (pid 31932)
+Compiled d3.geom.js  (0ms)  (pid 31932)
+Compiled social_stream/tie.js  (129ms)  (pid 31932)
+Compiled social_stream/wall.js  (10ms)  (pid 31932)
+Compiled social_stream/timeline.js  (31ms)  (pid 31932)
+Compiled social_stream/user.js  (3ms)  (pid 31932)
+Compiled social_stream-base.js  (4136ms)  (pid 31932)
+Compiled jquery.jplayer.js  (0ms)  (pid 31932)
+Compiled social_stream/audio.js  (4ms)  (pid 31932)
+Compiled social_stream/document.js  (4ms)  (pid 31932)
+Compiled social_stream/video.js  (3ms)  (pid 31932)
+Compiled social_stream/documents.timeline.js  (15ms)  (pid 31932)
+Compiled social_stream/documents.wall.js  (3ms)  (pid 31932)
+Compiled social_stream-documents.js  (60ms)  (pid 31932)
+Compiled jquery.boxy.js  (0ms)  (pid 31932)
+Compiled fullcalendar.js  (115ms)  (pid 31932)
+Compiled scheduler/form.js  (0ms)  (pid 31932)
+Compiled scheduler.js  (8ms)  (pid 31932)
+Compiled jquery.tipsy.js  (0ms)  (pid 31932)
+Compiled social_stream/calendar.js  (10ms)  (pid 31932)
+Compiled social_stream/events.poster.js  (3ms)  (pid 31932)
+Compiled social_stream/event.js  (12ms)  (pid 31932)
+Compiled social_stream/events.action.js  (4ms)  (pid 31932)
+Compiled social_stream/events.timeline.js  (6ms)  (pid 31932)
+Compiled social_stream/fullcalendar.js  (8ms)  (pid 31932)
+Compiled social_stream-events.js  (222ms)  (pid 31932)
+Compiled social_stream/link.js  (4ms)  (pid 31932)
+Compiled social_stream/linkser.timeline.js  (5ms)  (pid 31932)
+Compiled social_stream/linkser.wall.js  (7ms)  (pid 31932)
+Compiled social_stream-linkser.js  (31ms)  (pid 31932)
+Compiled strophe.js  (1ms)  (pid 31932)
+Compiled strophe.muc.js  (0ms)  (pid 31932)
+Compiled jquery.tools.tooltip.js  (0ms)  (pid 31932)
+Compiled liquidmetal.js  (0ms)  (pid 31932)
+Compiled TB.min.js  (2ms)  (pid 31932)
+Compiled jquery.flexselect.sstreampresence.js  (0ms)  (pid 31932)
+Compiled jquery.ui.chatbox.sstreampresence.js  (0ms)  (pid 31932)
+Compiled presence.js  (14ms)  (pid 31932)
+Compiled presence_XmppClient.js  (23ms)  (pid 31932)
+Compiled presence_audio.js  (2ms)  (pid 31932)
+Compiled presence_game.js  (7ms)  (pid 31932)
+Compiled presence_game_comunication.js  (107ms)  (pid 31932)
+Compiled presence_game_factory.js  (1ms)  (pid 31932)
+Compiled presence_game_interface.js  (5ms)  (pid 31932)
+Compiled presence_game_sfighter.js  (10ms)  (pid 31932)
+Compiled presence_game_ter.js  (7ms)  (pid 31932)
+Compiled presence_notifications.js  (0ms)  (pid 31932)
+Compiled presence_parser.js  (0ms)  (pid 31932)
+Compiled presence_persistence.js  (0ms)  (pid 31932)
+Compiled presence_store.js  (0ms)  (pid 31932)
+Compiled presence_uiManager.js  (10ms)  (pid 31932)
+Compiled presence_utilities.js  (0ms)  (pid 31932)
+Compiled presence_videochat.js  (8ms)  (pid 31932)
+Compiled presence_windowManager.js  (0ms)  (pid 31932)
+Compiled social_stream-presence.js  (501ms)  (pid 31932)
+Compiled application.js  (5066ms)  (pid 31932)
+Compiled bootstrap-scroll-modal.css  (0ms)  (pid 31932)
+Compiled social_stream/base/logo/_logo-in.css  (0ms)  (pid 31932)
+Compiled social_stream/base/logo/_logo-out.css  (0ms)  (pid 31932)
+Compiled social_stream/fonts/fonts.css  (0ms)  (pid 31932)
+Compiled social_stream/fonts/colorfont.css  (0ms)  (pid 31932)
+Compiled social_stream/base/icons/icon.css.css  (0ms)  (pid 31932)
+WARNING on line 4 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/conversation/_conversation.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.cleditor.css  (0ms)  (pid 31932)
+WARNING on line 9 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/conversation/responsive/_responsive-767px-max.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 124 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/explore/layout/_explore-timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 27 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/explore/responsive/_responsive-768px-979px.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jqcloud.css  (0ms)  (pid 31932)
+WARNING on line 8 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/profile/_profile.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.Jcrop.css  (0ms)  (pid 31932)
+Compiled avatars_for_rails.css  (6ms)  (pid 31932)
+WARNING on line 94 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/toolbar/layout/_toolbar.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 7 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 93 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled chosen.css  (0ms)  (pid 31932)
+WARNING on line 8 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/layout/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 75 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/timeline/layout/_timeline.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 57 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/responsive/_responsive-1200px-min.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 75 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/responsive/_responsive-767px-max.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jplayer.blue.monday.css  (0ms)  (pid 31932)
+WARNING on line 59 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/timeline/layout/_audios.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 60 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/timeline/layout/_audios.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled fullcalendar.css  (0ms)  (pid 31932)
+WARNING on line 13 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/linkser/app/assets/stylesheets/social_stream/linkser/explore/search/layout/_search-result.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+WARNING on line 15 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/linkser/app/assets/stylesheets/social_stream/linkser/explore/timeline/layout/_timeline-result.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+Compiled jquery.ui.chatbox.css  (0ms)  (pid 31932)
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+DEPRECATION WARNING on line 25 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/base/app/assets/stylesheets/social_stream/base/mixins/_layout.css.sass:
+  @extending an outer selector from within @media is deprecated.
+  You may only @extend selectors within the same directive.
+  This will be an error in Sass 3.3.
+  It can only work once @extend is supported natively in the browser.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "#picture .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #picture .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #audio .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #audio .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #video .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #video .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ #document .picture .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .audio .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .video .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+WARNING on line 36 of /home/ubuntu/.rvm/gems/ruby-2.0.0-p247/bundler/gems/social_stream-a4f25388214c/documents/app/assets/stylesheets/social_stream/documents/responsive/_responsive-768px-979px.css.sass: "
+ 
+ #document .document .details .upload input[type="file"]" failed to @extend ".border-radius-5".
+  The selector ".border-radius-5" was not found.
+  This will be an error in future releases of Sass.
+  Use "@extend .border-radius-5 !optional" if the extend should be able to fail.
+
+
+Compiled social_stream.css  (18813ms)  (pid 31932)
+Compiled _variables.css  (98ms)  (pid 31932)
+Compiled fonts.css  (0ms)  (pid 31932)
+Compiled social_stream/_frontpage.css  (4ms)  (pid 31932)
+Compiled application.css  (19068ms)  (pid 31932)
+Connecting to database specified by database.yml
+Creating scope :public. Overwriting existing method ActivityObject.public.
+Creating scope :followed_by. Overwriting existing method Actor.followed_by.
